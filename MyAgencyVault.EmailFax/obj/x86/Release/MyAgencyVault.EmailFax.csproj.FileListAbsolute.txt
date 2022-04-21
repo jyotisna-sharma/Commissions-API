@@ -1,0 +1,7 @@
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.EmailFax\bin\x86\Release\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.EmailFax\bin\x86\Release\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.EmailFax\bin\x86\Release\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.EmailFax\bin\x86\Release\ActionLogger.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.EmailFax\obj\x86\Release\MyAgencyVault.EmailFax.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.EmailFax\obj\x86\Release\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.EmailFax\obj\x86\Release\MyAgencyVault.EmailFax.pdb

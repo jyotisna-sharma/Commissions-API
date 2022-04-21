@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\NUnit3TestAdapter.3.8.0\build\net35\NUnit3TestAdapter.props" Condition="Exists('packages\NUnit3TestAdapter.3.8.0\build\net35\NUnit3TestAdapter.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{03E43164-DE9F-4328-BDD4-5901BD85759A}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MyAgencyVault.WcfService</RootNamespace>
+    <AssemblyName>MyAgencyVault.WcfService</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <UseIISExpress>true</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <FilesToIncludeForPublish>AllFilesInProjectFolder</FilesToIncludeForPublish>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\MyAgencyVault.WcfService.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\MyAgencyVault.WcfService.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ActionLogger, Version=3.0.9.4, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ActionLogger\bin\Debug\ActionLogger.dll</HintPath>
+    </Reference>
+    <Reference Include="Excel, Version=2.1.2.3, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.2.1.2.3\lib\net20\Excel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpZipLib.0.86.0\lib\20\ICSharpCode.SharpZipLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.IdentityModel.JsonWebTokens, Version=5.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.IdentityModel.JsonWebTokens.5.3.0\lib\net45\Microsoft.IdentityModel.JsonWebTokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Logging, Version=5.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.IdentityModel.Logging.5.3.0\lib\net45\Microsoft.IdentityModel.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens, Version=5.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.IdentityModel.Tokens.5.3.0\lib\net45\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.10.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=3.7.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>packages\NUnit.3.7.1\lib\net40\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="PGK.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f93e897f802ddcb7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\PGK.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.IdentityModel.Tokens.Jwt, Version=5.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\System.IdentityModel.Tokens.Jwt.5.3.0\lib\net45\System.IdentityModel.Tokens.Jwt.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WcfHttpCompressionEnabler">
+      <HintPath>..\SharedLib\WcfHttpCompressionEnabler.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="forgotUsername.html" />
+    <Content Include="MavService.svc" />
+    <Content Include="PGK.Extensions.dll" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.QA.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Staging.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="website.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="JSONResponse.cs" />
+    <Compile Include="Library\AuthenticationTokenService.cs" />
+    <Compile Include="Library\BatchInsuredRecored.cs" />
+    <Compile Include="Library\BatchStatmentRecords.cs" />
+    <Compile Include="Library\Brokercode.cs" />
+    <Compile Include="Library\ComDeptSupport.cs" />
+    <Compile Include="Library\CompType.cs" />
+    <Compile Include="Library\IncomingPament.cs" />
+    <Compile Include="Library\PolicyLocking.cs" />
+    <Compile Include="Library\PolicySettings.cs" />
+    <Compile Include="Library\Report.cs" />
+    <Compile Include="Library\DEU.cs" />
+    <Compile Include="Library\PayorTemplate.cs" />
+    <Compile Include="Library\LearnedToPolicyPost.cs" />
+    <Compile Include="Library\AdvancedPayee.cs" />
+    <Compile Include="Library\Batch.cs" />
+    <Compile Include="Library\BatchFiles.cs" />
+    <Compile Include="Library\BillingLineDetail.cs" />
+    <Compile Include="Library\Carrier.cs" />
+    <Compile Include="Library\ExportCardPayeeInfo.cs" />
+    <Compile Include="Library\ExportDate.cs" />
+    <Compile Include="Library\FollowupIssue.cs" />
+    <Compile Include="Library\CalculateVariableService.cs" />
+    <Compile Include="Library\ImportTransactionalFileInfo.cs" />
+    <Compile Include="Library\InvoiceLine.cs" />
+    <Compile Include="Library\IssueCategory.cs" />
+    <Compile Include="Library\Client.cs" />
+    <Compile Include="Library\ClientAndPayment.cs" />
+    <Compile Include="Library\ComDeptService.cs" />
+    <Compile Include="Library\CommissionEntry.cs" />
+    <Compile Include="Library\Coverage.cs" />
+    <Compile Include="Library\Formula.cs" />
+    <Compile Include="Library\GlobalIncomingSchedule.cs" />
+    <Compile Include="Library\GlobalPayorContact.cs" />
+    <Compile Include="Library\IncomingSchedule.cs" />
+    <Compile Include="Library\Invoice.cs" />
+    <Compile Include="Library\IssueReason.cs" />
+    <Compile Include="Library\IssueResult.cs" />
+    <Compile Include="Library\IssueStatus.cs" />
+    <Compile Include="Library\Journal.cs" />
+    <Compile Include="Library\LastViewPolicy.cs" />
+    <Compile Include="Library\Licensee.cs" />
+    <Compile Include="Library\LicenseeInvoice.cs" />
+    <Compile Include="Library\LicenseeNote.cs" />
+    <Compile Include="Library\LinkPaymentPolicies.cs" />
+    <Compile Include="Library\LinkPaymentReciptRecords.cs" />
+    <Compile Include="Library\Masters\Masters.cs" />
+    <Compile Include="Library\News.cs" />
+    <Compile Include="Library\Note.cs" />
+    <Compile Include="Library\OutgoingPayment.cs" />
+    <Compile Include="Library\Payee.cs" />
+    <Compile Include="Library\Payor.cs" />
+    <Compile Include="Library\PayorDefaults.cs" />
+    <Compile Include="Library\PayorSource.cs" />
+    <Compile Include="Library\PayorTool.cs" />
+    <Compile Include="Library\PayorToolAvailablelFieldType.cs" />
+    <Compile Include="Library\PayorToolField.cs" />
+    <Compile Include="Library\PolicyNotes.cs" />
+    <Compile Include="Library\PolicyOutgoingDistribution.cs" />
+    <Compile Include="Library\PolicySearched.cs" />
+    <Compile Include="Library\PolicyToolIncommingShedule.cs" />
+    <Compile Include="Library\PayorUserWebSite.cs" />
+    <Compile Include="Library\Policy.cs" />
+    <Compile Include="Library\PolicyDetails.cs" />
+    <Compile Include="Library\PolicyLearnedField.cs" />
+    <Compile Include="Library\PolicyToLearnPost.cs" />
+    <Compile Include="Library\PostUtil.cs" />
+    <Compile Include="Library\Response\BatchResponse.cs" />
+    <Compile Include="Library\Response\BillingLineResponse.cs" />
+    <Compile Include="Library\Response\BrokerResponse.cs" />
+    <Compile Include="Library\Response\CarrierResponse.cs" />
+    <Compile Include="Library\Response\ClientResponse.cs" />
+    <Compile Include="Library\Response\CoverageResponse.cs" />
+    <Compile Include="Library\Response\DashboardResponse.cs" />
+    <Compile Include="Library\Response\DEUResponse.cs" />
+    <Compile Include="Library\Response\FollowupResponse.cs" />
+    <Compile Include="Library\Response\LicenseeNoteResponse.cs" />
+    <Compile Include="Library\Response\LicenseeResponse.cs" />
+    <Compile Include="Library\Response\MasterResponse.cs" />
+    <Compile Include="Library\Response\NewsResponse.cs" />
+    <Compile Include="Library\Response\PayorResponse.cs" />
+    <Compile Include="Library\Response\PayorTemplateResponse.cs" />
+    <Compile Include="Library\Response\PayorToolResponse.cs" />
+    <Compile Include="Library\Response\PolicyResponse.cs" />
+    <Compile Include="Library\Response\PostResponse.cs" />
+    <Compile Include="Library\Response\ReportResponse.cs" />
+    <Compile Include="Library\Response\ResponseCodes.cs" />
+    <Compile Include="Library\Response\SegmentResponse.cs" />
+    <Compile Include="Library\Response\SettingResponse.cs" />
+    <Compile Include="Library\Response\StatementResponse.cs" />
+    <Compile Include="Library\Response\UserResponse.cs" />
+    <Compile Include="Library\SendMail.cs" />
+    <Compile Include="Library\Statement.cs" />
+    <Compile Include="Library\StatementDates.cs" />
+    <Compile Include="Library\SystemConstants.cs" />
+    <Compile Include="Library\TestRest.cs" />
+    <Compile Include="Library\User .cs" />
+    <Compile Include="MavService.svc.cs">
+      <DependentUpon>MavService.svc</DependentUpon>
+    </Compile>
+    <Compile Include="IService1.cs" />
+    <Compile Include="Library\OutgoingShedule.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\BatchService.cs" />
+    <Compile Include="Services\BillingLineService.cs" />
+    <Compile Include="Services\BrokerService.cs" />
+    <Compile Include="Services\CarrierService.cs" />
+    <Compile Include="Services\ClientService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Services\CompTypeService.cs" />
+    <Compile Include="Services\CoverageService.cs" />
+    <Compile Include="Services\DashboardService.cs" />
+    <Compile Include="Services\DEUService.cs" />
+    <Compile Include="Services\FollowupService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Services\LicenseeNotesService.cs" />
+    <Compile Include="Services\LicenseeService.cs" />
+    <Compile Include="Services\LinkPaymentService.cs" />
+    <Compile Include="Services\MasterService.cs" />
+    <Compile Include="Services\NewsService.cs" />
+    <Compile Include="Services\PayorContactService.cs" />
+    <Compile Include="Services\PayorService.cs" />
+    <Compile Include="Services\PayorSiteService.cs" />
+    <Compile Include="Services\PayorTemplateService.cs" />
+    <Compile Include="Services\PayorToolService.cs" />
+    <Compile Include="Services\PolicyCommDashboardService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Services\PolicyLearnedService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Services\PolicyService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Services\PostService.cs" />
+    <Compile Include="Services\ReportService.cs" />
+    <Compile Include="Services\SegmentService.cs" />
+    <Compile Include="Services\SendMailService.cs" />
+    <Compile Include="Services\Settings.cs" />
+    <Compile Include="Services\StatementDatesService.cs" />
+    <Compile Include="Services\StatementService.cs" />
+    <Compile Include="Services\UserService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Strings.Designer.cs">
+      <DependentUpon>Strings.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="libman.json" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Web.Base.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Strings.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Strings.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Local SVN\WebAPI\API\Googlemaps\CCWGoogleMaps.csproj">
+      <Project>{fb1810dd-62a0-4247-8725-3077e334f8f1}</Project>
+      <Name>CCWGoogleMaps</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyAgencyVault.BusinessLibrary\MyAgencyVault.BusinessLibrary.csproj">
+      <Project>{eee1fa9e-ff1e-4e88-87de-aec013ac1124}</Project>
+      <Name>MyAgencyVault.BusinessLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyAgencyVault.DataAccessLayer\MyAgencyVault.DataAccessLayer.csproj">
+      <Project>{dc1b4809-28a9-4192-8bea-2fac0d68c291}</Project>
+      <Name>MyAgencyVault.DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyAgencyVault.EmailFax\MyAgencyVault.EmailFax.csproj">
+      <Project>{284093b8-c59a-4274-8446-d7c0c624ed08}</Project>
+      <Name>MyAgencyVault.EmailFax</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'QA|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;QA</DefineConstants>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'QA|x64'">
+    <OutputPath>bin\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'QA|x86'">
+    <OutputPath>bin\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Staging|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>Staging</DefineConstants>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Staging|x64'">
+    <OutputPath>bin\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Staging|x86'">
+    <OutputPath>bin\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>False</AutoAssignPort>
+          <DevelopmentServerPort>5202</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:5203/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>http://localhost:5202/</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\NUnit3TestAdapter.3.8.0\build\net35\NUnit3TestAdapter.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\NUnit3TestAdapter.3.8.0\build\net35\NUnit3TestAdapter.props'))" />
+  </Target>
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\WebApplications\Microsoft.WebApplication.targets" />
+  <Target Name="BeforeBuild">
+    <TransformXml Source="Web.Base.config" Transform="Web.$(Configuration).config" Destination="Web.config" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

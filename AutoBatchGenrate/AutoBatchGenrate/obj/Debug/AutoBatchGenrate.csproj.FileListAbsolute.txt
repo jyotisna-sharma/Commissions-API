@@ -1,0 +1,116 @@
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.config
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.manifest
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.vsto
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\itextsharp.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\ActionLogger.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.Properties.Resources.resources
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.config
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.manifest
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.vsto
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\itextsharp.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\ActionLogger.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.Properties.Resources.resources
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.pdb
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\ResolveAssemblyReference.cache
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.Properties.Resources.resources
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\GenerateResource.read.1.tlog
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\GenerateResource.write.1.tlog
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.config
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.pdb
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.manifest
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.vsto
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\itextsharp.dll
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.dll
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\ActionLogger.dll
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.pdb
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.csprojResolveAssemblyReference.cache
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.Properties.Resources.resources
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.csproj.GenerateResource.Cache
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.dll
+D:\ericproject\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.manifest
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\itextsharp.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\ActionLogger.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.Properties.Resources.resources
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.csproj.GenerateResource.Cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.manifest
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\itextsharp.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\bin\Debug\ActionLogger.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.Properties.Resources.resources
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.csproj.GenerateResource.Cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\AutoBatchGenrate\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.pdb

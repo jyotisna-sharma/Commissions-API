@@ -1,0 +1,12 @@
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\bin\x86\Release\MyAgencyVault.BusinessLibrary.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\bin\x86\Release\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\bin\x86\Release\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\bin\x86\Release\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\bin\x86\Release\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\bin\x86\Release\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\bin\x86\Release\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\bin\x86\Release\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\obj\x86\Release\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\obj\x86\Release\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\obj\x86\Release\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3093_trunk\MyAgencyVault.BusinessLibrary\obj\x86\Release\MyAgencyVault.BusinessLibrary.pdb

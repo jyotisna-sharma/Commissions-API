@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="EmailNotFound" xml:space="preserve">
+    <value>An error occurred while getting your email address. </value>
+  </data>
+  <data name="ForgotPasswordFailure" xml:space="preserve">
+    <value>An error occurred while fetching your profile details to send email with reset password link.</value>
+  </data>
+  <data name="ForgotPasswordMailSendFail" xml:space="preserve">
+    <value>An error occurred while sending email. Please check your email address or try after some time.</value>
+  </data>
+  <data name="ForgotPasswordMailSubject" xml:space="preserve">
+    <value>Commissions Department - Password</value>
+  </data>
+  <data name="ForgotPasswordSuccess" xml:space="preserve">
+    <value>An email has been sent to you with link to reset password.</value>
+  </data>
+  <data name="ForgotUsernameFailure" xml:space="preserve">
+    <value>An error occurred while trying to fetch username with given details.</value>
+  </data>
+  <data name="ForgotUsernameMailSubject" xml:space="preserve">
+    <value>Commissions Department - Username</value>
+  </data>
+  <data name="ForgotUsernameNotFound" xml:space="preserve">
+    <value>Username could not be found in the system. Please check details.</value>
+  </data>
+  <data name="ForgotUsernameSuccess" xml:space="preserve">
+    <value>Username found successfully</value>
+  </data>
+  <data name="GetSecurityQuestionFailure" xml:space="preserve">
+    <value>An error occurred while looking for security question for the given email address.</value>
+  </data>
+  <data name="GetSecurityQuestionNotFound" xml:space="preserve">
+    <value>No security question found for the user with given email ID.</value>
+  </data>
+  <data name="GetSecurityQuestionSuccess" xml:space="preserve">
+    <value>Security question found successfully for the given email address</value>
+  </data>
+  <data name="HouseAccountNotUpdated" xml:space="preserve">
+    <value>House Account not update.</value>
+  </data>
+  <data name="LoginFailureMessage" xml:space="preserve">
+    <value>An error occurred while authenticating user.</value>
+  </data>
+  <data name="LoginSuccessMessage" xml:space="preserve">
+    <value>User authenticated successfully.</value>
+  </data>
+  <data name="LoginUserNotFoundMessage" xml:space="preserve">
+    <value>User details not found.</value>
+  </data>
+  <data name="PasswordKeyExpired" xml:space="preserve">
+    <value>Requested link has expired, please request again.</value>
+  </data>
+  <data name="PasswordKeyNotExist" xml:space="preserve">
+    <value>Requested URL doesn't exist.</value>
+  </data>
+  <data name="ResetPasswordFailure" xml:space="preserve">
+    <value>An error occurred while resetting password.</value>
+  </data>
+  <data name="ResetPasswordSuccess" xml:space="preserve">
+    <value>Password has been reset successfully.</value>
+  </data>
+  <data name="UserDeletedFailureMessage" xml:space="preserve">
+    <value>Delete user request, cannot be deleted</value>
+  </data>
+  <data name="UserDeletedSuccessMessage" xml:space="preserve">
+    <value>User deleted Successfully</value>
+  </data>
+  <data name="UserDetailNotFoundMessage" xml:space="preserve">
+    <value>User details not found.</value>
+  </data>
+  <data name="UserDetailNotupdated" xml:space="preserve">
+    <value>User profile not updated succesffully</value>
+  </data>
+  <data name="UserLinkedMessage" xml:space="preserve">
+    <value>User's mapping updated successfully.</value>
+  </data>
+  <data name="UsernameNotFoundMessage" xml:space="preserve">
+    <value>Entered username doesn't exist in our system. Please ensure you have entered valid username or contact administrator.</value>
+  </data>
+  <data name="UserSettingFailureMessage" xml:space="preserve">
+    <value>User's setting  not  updated successfully.</value>
+  </data>
+  <data name="UserSettingSuccessMessage" xml:space="preserve">
+    <value>User's settings updated successfully.</value>
+  </data>
+  <data name="UsersLinkedFailure" xml:space="preserve">
+    <value>An error occurred while user mapping.</value>
+  </data>
+  <data name="DataEntryUserListSuccess" xml:space="preserve">
+    <value>Data entry user lists found successfully</value>
+  </data>
+  <data name="DataEntryUserslistNotFoundMessage" xml:space="preserve">
+    <value>Data entry users not found</value>
+  </data>
+  <data name="userlistNotFoundMessage" xml:space="preserve">
+    <value>User mapping list not found successfully.</value>
+  </data>
+  <data name="UserListSuccessMessage" xml:space="preserve">
+    <value>User list found Successfully.</value>
+  </data>
+  <data name="ResetPasswordEmaiFailure" xml:space="preserve">
+    <value>An error occurred while resetting UserDetails</value>
+  </data>
+  <data name="KeyNotFound" xml:space="preserve">
+    <value>Key could not be blank</value>
+  </data>
+  <data name="ResetPasswordEmailsuccess" xml:space="preserve">
+    <value>UserDetails has been reset successfully.</value>
+  </data>
+  <data name="string1" xml:space="preserve">
+    <value />
+  </data>
+  <data name="PolicyListFailure" xml:space="preserve">
+    <value>Error while fetching list of policies.Please try again </value>
+  </data>
+  <data name="PolicyListSucess" xml:space="preserve">
+    <value>Policies are successfully fetched.</value>
+  </data>
+  <data name="PolicyListNotesFailure" xml:space="preserve">
+    <value>PolicyList not found Successfully.</value>
+  </data>
+  <data name="PolicyListRecordNotFound" xml:space="preserve">
+    <value>Record not found with policyId .Please try again with valid PolicyId</value>
+  </data>
+  <data name="PolicyNotesDelete" xml:space="preserve">
+    <value>PolicyNote deleted Successfully</value>
+  </data>
+  <data name="PolicyNotesFailure" xml:space="preserve">
+    <value>Error occured while fetching PolicyNotes</value>
+  </data>
+  <data name="PolicyNotesList" xml:space="preserve">
+    <value>PolicyList found successfully </value>
+  </data>
+  <data name="PolicyNotesNotFound" xml:space="preserve">
+    <value>PolicyNotes Not found with this policyId</value>
+  </data>
+  <data name="OutgoingPaymentassociates" xml:space="preserve">
+    <value>Please note that policy cannot be deleted as it has payments associated to it in the system</value>
+  </data>
+  <data name="Policyalreadydeleted" xml:space="preserve">
+    <value>Policy is found deleted in the system</value>
+  </data>
+  <data name="Policynotfound" xml:space="preserve">
+    <value>Policy details not found</value>
+  </data>
+  <data name="PolicyCancelOperation" xml:space="preserve">
+    <value>Policy can't deleted due to cancel opertaion perform</value>
+  </data>
+  <data name="PolicyDeleted" xml:space="preserve">
+    <value>Policy deleted successfully</value>
+  </data>
+  <data name="PolicyDeletedwithClient" xml:space="preserve">
+    <value>Policy deleted with client</value>
+  </data>
+  <data name="RecordFailure" xml:space="preserve">
+    <value>Failure while fetching the list of Schedule.Please try again with valid licenseeId</value>
+  </data>
+  <data name="RecordsFound" xml:space="preserve">
+    <value>Records found successfully</value>
+  </data>
+  <data name="RecordsNotFoundOutgoingSchedule" xml:space="preserve">
+    <value>Record not found with this licenseeId.Please try again with valid licenseeId</value>
+  </data>
+  <data name="AddedPolicyfield" xml:space="preserve">
+    <value>Policy details added successfully</value>
+  </data>
+  <data name="PolicyLearnedExecption" xml:space="preserve">
+    <value>Some error occured while processing.Please try after sometime</value>
+  </data>
+  <data name="PolicyLearnfieldsFailure" xml:space="preserve">
+    <value>Error occured while updating policy details.</value>
+  </data>
+  <data name="PolicyLearnfieldsSuccess" xml:space="preserve">
+    <value>PolicylearnedFields details  found sucessfully</value>
+  </data>
+  <data name="UpdatePolicyfield" xml:space="preserve">
+    <value>Policy details update successfully</value>
+  </data>
+  <data name="ResetPasswordParameternotfound" xml:space="preserve">
+    <value>An error occured while fetching details</value>
+  </data>
+  <data name="EmailAlreadyExist" xml:space="preserve">
+    <value>Email Id already exist with another Account.</value>
+  </data>
+  <data name="EmailRegisteredFailure" xml:space="preserve">
+    <value>Error occured while Update Email address</value>
+  </data>
+  <data name="EmailRegisteredSuccess" xml:space="preserve">
+    <value>Email is registered successfully</value>
+  </data>
+  <data name="DeletedUserNotFound" xml:space="preserve">
+    <value>User not found exception</value>
+  </data>
+  <data name="UserHasNotPaymentEntries" xml:space="preserve">
+    <value>User has not any payment entries you can delete if you want</value>
+  </data>
+  <data name="UserHasPaymentEntries" xml:space="preserve">
+    <value>Agent cannot be deleted as there are either payment entries
+or issues associated to his policies in the system.</value>
+  </data>
+  <data name="UsercredentialIdFound" xml:space="preserve">
+    <value>UsercredentialId found successfully</value>
+  </data>
+  <data name="UsercredentialIdNotFound" xml:space="preserve">
+    <value>userCredentialId not found</value>
+  </data>
+  <data name="UserAlreadyExist" xml:space="preserve">
+    <value>User Already exist in database.</value>
+  </data>
+  <data name="CreateNewUserSuccessfully" xml:space="preserve">
+    <value>New user  has been successfully added in the system.</value>
+  </data>
+  <data name="UserDetailsUpdateSuccessfully" xml:space="preserve">
+    <value>User's profile updated successfully.</value>
+  </data>
+  <data name="AddUpdateAdminFailure" xml:space="preserve">
+    <value>Error occur while Upodate Admin Details</value>
+  </data>
+  <data name="AddUpdateAdminStatus" xml:space="preserve">
+    <value>Admin status Successfully updated.</value>
+  </data>
+  <data name="EmailUsernameAlreadyExist" xml:space="preserve">
+    <value>Email and Username already exist in database.</value>
+  </data>
+  <data name="CreateUserFailure" xml:space="preserve">
+    <value>Error  occur in saving user deatils.</value>
+  </data>
+  <data name="ClientListFailure" xml:space="preserve">
+    <value>Error occured while fetching Client List.</value>
+  </data>
+  <data name="ClientListSuccessMessage" xml:space="preserve">
+    <value>Client list found Successfully.</value>
+  </data>
+  <data name="ClientDeletable" xml:space="preserve">
+    <value>Client can be deleted from the system</value>
+  </data>
+  <data name="ClientDeleteFailure" xml:space="preserve">
+    <value>An exception occurred while deleting client from the system.</value>
+  </data>
+  <data name="ClientDeleteSuccess" xml:space="preserve">
+    <value>Client has been deleted successfully from the system.</value>
+  </data>
+  <data name="ClientNotDeletable" xml:space="preserve">
+    <value>Client cannot be deleted  as there are either payment entries or issues associated to his policies in the system.</value>
+  </data>
+  <data name="PolicyDeleteFailure" xml:space="preserve">
+    <value>An error occurred while delete policy.</value>
+  </data>
+  <data name="PolicyUpdateFailure" xml:space="preserve">
+    <value>An error occured while update the policyDetails</value>
+  </data>
+  <data name="FollowUpissuesFailure" xml:space="preserve">
+    <value>Failure occurs while updateing Issue.</value>
+  </data>
+  <data name="FollowUpIssuesSuccess" xml:space="preserve">
+    <value>Follow up Issue Resolved Successfully.</value>
+  </data>
+  <data name="SettingFailureMessage" xml:space="preserve">
+    <value>An error occured While save your settings.</value>
+  </data>
+  <data name="SettingUpdateSuccessfully" xml:space="preserve">
+    <value>Settings has been saved successfully.</value>
+  </data>
+  <data name="CarrierAlreadyExist" xml:space="preserve">
+    <value>Entered carrier name already exists. Please try with different name.</value>
+  </data>
+  <data name="CarrierSuccessfullyAdded" xml:space="preserve">
+    <value>Carrier added successfully in the system.</value>
+  </data>
+  <data name="CarrierSuccessfullyUpdate" xml:space="preserve">
+    <value>Carrier update successfully in the system.</value>
+  </data>
+  <data name="CarrierNameNickNameExist" xml:space="preserve">
+    <value>Entered carrier name and nickname already exists. Please try with different name.</value>
+  </data>
+  <data name="CarrierNickNameExist" xml:space="preserve">
+    <value>Entered nickname already exists. Please try with different name.</value>
+  </data>
+</root>
