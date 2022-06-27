@@ -146,3 +146,9 @@ E:\Jyotisna\Projects\new web code1\ActionLogger\obj\Debug\ActionLogger.csproj.Co
 E:\Jyotisna\Projects\new web code1\ActionLogger\obj\Debug\ActionLogger.dll
 E:\Jyotisna\Projects\new web code1\ActionLogger\obj\Debug\ActionLogger.pdb
 E:\Jyotisna\Projects\new web code1\ActionLogger\obj\Debug\ActionLogger.csprojAssemblyReference.cache
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\ActionLogger\bin\Debug\ActionLogger.dll
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\ActionLogger\bin\Debug\ActionLogger.pdb
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\ActionLogger\obj\Debug\ActionLogger.csprojAssemblyReference.cache
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\ActionLogger\obj\Debug\ActionLogger.csproj.CoreCompileInputs.cache
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\ActionLogger\obj\Debug\ActionLogger.dll
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\ActionLogger\obj\Debug\ActionLogger.pdb

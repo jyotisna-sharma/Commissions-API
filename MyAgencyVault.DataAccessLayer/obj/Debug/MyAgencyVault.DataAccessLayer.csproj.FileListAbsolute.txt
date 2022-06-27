@@ -300,3 +300,11 @@ E:\Jyotisna\Projects\new web code1\MyAgencyVault.DataAccessLayer\obj\Debug\MyAge
 E:\Jyotisna\Projects\new web code1\MyAgencyVault.DataAccessLayer\obj\Debug\MyAgencyVault.DataAccessLayer.csproj.CopyComplete
 E:\Jyotisna\Projects\new web code1\MyAgencyVault.DataAccessLayer\obj\Debug\MyAgencyVault.DataAccessLayer.dll
 E:\Jyotisna\Projects\new web code1\MyAgencyVault.DataAccessLayer\obj\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\MyAgencyVault.DataAccessLayer\bin\Debug\MyAgencyVault.DataAccessLayer.dll.config
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\MyAgencyVault.DataAccessLayer\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\MyAgencyVault.DataAccessLayer\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\MyAgencyVault.DataAccessLayer\obj\Debug\MyAgencyVault.DataAccessLayer.csprojAssemblyReference.cache
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\MyAgencyVault.DataAccessLayer\obj\Debug\MyAgencyVault.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\MyAgencyVault.DataAccessLayer\obj\Debug\MyAgencyVault.DataAccessLayer.csproj.CopyComplete
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\MyAgencyVault.DataAccessLayer\obj\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\amit\amit 30-02-2022\project\api\isMarkPaid\Commissions-API\MyAgencyVault.DataAccessLayer\obj\Debug\MyAgencyVault.DataAccessLayer.pdb
