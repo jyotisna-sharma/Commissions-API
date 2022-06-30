@@ -171,6 +171,7 @@ namespace MyAgencyVault.BusinessLibrary
             MailServerDetail mInfo = getDevMailServerDetail();
 
             if (string.IsNullOrEmpty(toAddress))
+ 
                 toAddress = mInfo.Email;
 
             bool mailSendSuccessfully = true;
