@@ -171,6 +171,7 @@ namespace MyAgencyVault.BusinessLibrary
             MailServerDetail mInfo = getDevMailServerDetail();
 
             if (string.IsNullOrEmpty(toAddress))
+ 
                 toAddress = mInfo.Email;
 
             bool mailSendSuccessfully = true;
@@ -181,10 +182,10 @@ namespace MyAgencyVault.BusinessLibrary
                 EmailFax.EmailFax wpfMail = new EmailFax.EmailFax(mInfo.UserName, mInfo.Password, mInfo.Email, toAddress, mInfo.ServerName, mInfo.PortNo, subject, body);
 
                 //To send attachment other than Arison
-                if (licenseeId.ToString().ToLower() != "ba547e62-3812-493f-b58d-800b212a728c")
-                {
+                //if (licenseeId.ToString().ToLower() != "ba547e62-3812-493f-b58d-800b212a728c")
+                //{
                     wpfMail.AttachmentPath = fileName;
-                }
+                //}
                 //To send attachment other than Arison
 
                 wpfMail.SendEmail();

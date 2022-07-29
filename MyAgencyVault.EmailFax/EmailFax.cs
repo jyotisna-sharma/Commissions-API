@@ -49,6 +49,7 @@ namespace MyAgencyVault.EmailFax
             try
             {
                 MailMessage oMessage = new MailMessage();
+
                 SmtpClient smtpClient = new SmtpClient(Host);
                 BCC = System.Configuration.ConfigurationSettings.AppSettings["BccEmail"];
                 ActionLogger.Logger.WriteLog("BCC " + BCC, true);
@@ -85,7 +86,6 @@ namespace MyAgencyVault.EmailFax
                 {
                     smtpClient.Credentials = new NetworkCredential(User, Password);
                 }
-
                 smtpClient.Port = Port;
                 smtpClient.EnableSsl = UseSSL;
                 // Create and add the attachment
@@ -99,11 +99,11 @@ namespace MyAgencyVault.EmailFax
                     // Deliver the message    
                     smtpClient.Send(oMessage);
                 }
-
                 catch (Exception ex)
                 {
                     ex.ToString();
                 }
+
             }
             catch (Exception ex)
             {
